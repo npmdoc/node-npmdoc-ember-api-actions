@@ -1,9 +1,14 @@
-# api documentation for  [ember-api-actions (v0.1.6)](https://github.com/mike-north/ember-api-actions)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-api-actions.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-api-actions) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-api-actions.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-api-actions)
+# npmdoc-ember-api-actions
+
+#### api documentation for  [ember-api-actions (v0.1.6)](https://github.com/mike-north/ember-api-actions)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-api-actions.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-api-actions) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-api-actions.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-api-actions)
+
 #### Trigger remote actions that don't fit into CRUD, in your Ember.js apps
 
-[![NPM](https://nodei.co/npm/ember-api-actions.png?downloads=true)](https://www.npmjs.com/package/ember-api-actions)
+[![NPM](https://nodei.co/npm/ember-api-actions.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-api-actions)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-api-actions/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ember-api-actions_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-api-actions/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ember-api-actions/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ember-api-actions/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-api-actions/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-api-actions/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ember-api-actions/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Mike North",
-        "email": "michael.l.north@gmail.com",
         "url": "http://mike.works"
     },
     "bugs": {
@@ -82,13 +86,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "northm",
-            "email": "michael.l.north@gmail.com"
+            "name": "northm"
         }
     ],
     "name": "ember-api-actions",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/mike-north/ember-api-actions.git"
@@ -101,17 +103,6 @@
     "version": "0.1.6"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ember-api-actions](#apidoc.module.ember-api-actions)
-1.  string <span class="apidocSignatureSpan">ember-api-actions.</span>name
-
-
-
-# <a name="apidoc.module.ember-api-actions"></a>[module ember-api-actions](#apidoc.module.ember-api-actions)
 
 
 
